@@ -23,8 +23,6 @@ __pycache__/
 *.sqlite3
 *.db
 
-# Dependencias
-requirements.txt
 
 # Archivos de documentación generada
 docs/_build/
