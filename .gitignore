@@ -1,0 +1,37 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Archivos de configuración del entorno
+*.env
+
+# Archivos compilados de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de caché
+*.cache
+*.log
+
+# Archivos de base de datos locales
+*.sqlite3
+*.db
+
+# Dependencias
+requirements.txt
+
+# Archivos de documentación generada
+docs/_build/
+build/
+dist/
+
+# Archivos temporales
+*.tmp
+*.swp
+*.swo
